@@ -1,0 +1,3 @@
+[submodule "underscore.hpp"]
+	path = underscore.hpp
+	url = https://github.com/structuresound/underscore.hpp.git
